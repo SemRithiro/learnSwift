@@ -1,10 +1,10 @@
 # learnSwift
 
-learning Basic Swift Programming.
+Step by step learning Basic Swift Programming.
 
 ## Goal
 
-Improving myself as well as sharing useful tips through out this repository.
+Improving myself as well as sharing useful tips through out this example code.
 
 ### Notice
 
