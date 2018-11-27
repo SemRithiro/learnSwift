@@ -12,7 +12,7 @@ Only MacBook user or whom own swift compile 4.0+ can be able to run this code.
 Run using command line
 
 ```bash
-$swift [file_name]
+$ swift [file_name]
 ```
 
 ### Source
