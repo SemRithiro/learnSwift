@@ -17,4 +17,5 @@ $ swift [file_name]
 
 ### Source
 
-“The Swift Programming Language (Swift 4.2).” Apple Books. https://itunes.apple.com/kh/book/the-swift-programming-language-swift-4-2/id881256329?mt=11
+“The Swift Programming Language (Swift 4.2).” Apple Books.
+https://itunes.apple.com/kh/book/the-swift-programming-language-swift-4-2/id881256329?mt=11
