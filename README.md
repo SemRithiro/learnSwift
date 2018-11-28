@@ -1,6 +1,6 @@
 # learnSwift
 
-Step by step learning Basic Swift Programming.
+Step by step learning Basic Swift Programming. Learn by example.
 
 ## Goal
 
